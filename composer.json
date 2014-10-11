@@ -1,5 +1,5 @@
 {
-    "name": "codingmatters/mot-notification",
+    "name": "megamitch/mot-notification",
     "description": "Notification module for Mega Mitch Credit, Inc. Office Tool (MegaOfficeTool) Platform",
     "license": "MIT",
     "type": "application",
@@ -9,7 +9,7 @@
         "notification",
         "zf2"
     ],
-    "homepage": "https://github.com/CodingMatters/MOT_Notification/",
+    "homepage": "http://megamitch.ph",
     "authors": [
         {
             "name": "Gab Amba",
